@@ -23,7 +23,6 @@ HyperAlive 是一个面向小米 HyperOS 4 的 LSPosed 模块，将魅族 Alive 
 - System UI 插件 (`miui.systemui.plugin`)
 - 息屏与锁屏 (`com.miui.aod`)
 - 主题壁纸 (`com.android.thememanager`)
-- HyperAlive 自身 (`io.github.askt_clot.hyperalive`)
 
 从旧包名 `com.hyperalive.aod` 或 `com.qihang.aod` 迁移时，请先在 LSPosed 中停用旧模块，再启用新模块并重新设置作用域。旧应用的私有设置需要在新应用中重新配置。
 
