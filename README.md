@@ -1,6 +1,7 @@
 # HyperAlive
 
 HyperAlive 是一个面向小米 HyperOS 4 的 LSPosed 模块，将魅族 Alive 壁纸的息屏、锁屏和桌面三态转场移植到小米设备。
+[项目源码](https://github.com/Askt-clot/HyperAlive)
 
 ## 功能
 
